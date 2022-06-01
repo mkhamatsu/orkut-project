@@ -1,6 +1,7 @@
 @media screen and (min-width:600px) {
     .container {
         margin-top: 10px;
+        height: auto;
     }
     #field__title {
         font-size: 25px;
@@ -21,7 +22,7 @@
 @media (max-width:420px) {
     .container {
         margin-top: 50px;
-        height: 66vh;
+        height: auto;
     }
     .register__label {
         margin-top: 2px;
