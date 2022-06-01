@@ -23,4 +23,7 @@
         margin-top: 50px;
         height: 60vh;
     }
+    .register__select__radio {
+        margin-top: 2px;
+    }
 }
