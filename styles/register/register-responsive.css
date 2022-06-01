@@ -21,13 +21,13 @@
 @media (max-width:420px) {
     .container {
         margin-top: 50px;
-        height: 60vh;
+        height: 70vh;
     }
     .register__select__radio {
         margin-top: 2px;
     }
     .register__select {
         font-size: 13px;
-        margin-top: 5px;
+        margin-top: 8px;
     }
 }
