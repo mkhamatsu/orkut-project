@@ -23,11 +23,13 @@
         margin-top: 50px;
         height: 66vh;
     }
+    .register__label {
+        margin-bottom: 2px;
+    }
     .register__select__radio {
         margin-top: 2px;
     }
     .register__select {
         font-size: 13px;
-        margin-top: 10px;
     }
 }
