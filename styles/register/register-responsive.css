@@ -20,8 +20,8 @@
 
 @media (max-width:420px) {
     .container {
+        margin-top: 50px;
         height: auto;
-        padding: 10px;
     }
     .register__label {
         margin-top: 2px;
@@ -32,5 +32,8 @@
     }
     .register__select {
         font-size: 13px;
+    }
+    .fields__login {
+        margin-bottom: 20px;
     }
 }
