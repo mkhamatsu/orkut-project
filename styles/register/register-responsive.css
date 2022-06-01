@@ -26,4 +26,7 @@
     .register__select__radio {
         margin-top: 2px;
     }
+    .register__select {
+        font-size: 12px;
+    }
 }
