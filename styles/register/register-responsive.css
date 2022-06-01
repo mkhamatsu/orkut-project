@@ -21,7 +21,8 @@
 @media (max-width:420px) {
     .container {
         margin-top: 50px;
-        height: 70vh;
+        height: auto;
+        padding: 10px;
     }
     .register__label {
         margin-top: 2px;
