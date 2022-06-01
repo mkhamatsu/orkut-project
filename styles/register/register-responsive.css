@@ -24,6 +24,7 @@
         height: 66vh;
     }
     .register__label {
+        margin-top: 2px;
         margin-bottom: 2px;
     }
     .register__select__radio {
